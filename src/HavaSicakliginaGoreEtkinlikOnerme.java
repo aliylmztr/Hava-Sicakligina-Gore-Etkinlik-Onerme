@@ -1,8 +1,3 @@
-# Hava-Sicakligina-Gore-Etkinlik-Onerme
-Java Hava Sicakligina Gore Etkinlik Onerme
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
